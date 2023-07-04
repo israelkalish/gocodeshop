@@ -1,0 +1,25 @@
+button{
+    padding: 4px 8px;
+    margin: 2px;
+    border-radius: 5px;
+    border: 2px solid gray;
+      box-sizing: border-box;
+  }
+
+  .MyCart * {
+    width: 70px;
+    height: 70px;
+    font-size: 35px;
+    border: 0px solid transparent;
+    opacity: 1.0;
+    padding-left: 12px;
+    padding-top: 5px;
+  }
+
+  button:hover {
+    opacity: 0.7;
+  }
+
+  .bybutton{
+    width: 80%;
+  }

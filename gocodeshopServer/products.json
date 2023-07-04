@@ -1,0 +1,20 @@
+[
+  {
+    "_id": 1,
+    "title": "coat",
+    "price": 125.64,
+    "src": "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcRLPLBN2tYVRBMaU9eomNw-bvrQDZhP1NYH87bK1bzsn-BL_tsL5PrdaISbyBZAfCU3IaZ1mt5l6qWIjNhErQy87VE1g162uscqXWEv5cure3BKLZw8JjBQ3w&usqp=CAE"
+  },
+  {
+    "_id": 2,
+    "title": "coat",
+    "price": 125.64,
+    "src": "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcRLPLBN2tYVRBMaU9eomNw-bvrQDZhP1NYH87bK1bzsn-BL_tsL5PrdaISbyBZAfCU3IaZ1mt5l6qWIjNhErQy87VE1g162uscqXWEv5cure3BKLZw8JjBQ3w&usqp=CAE"
+  },
+  {
+    "_id": 3,
+    "title": "coat",
+    "price": 125.64,
+    "src": "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcRLPLBN2tYVRBMaU9eomNw-bvrQDZhP1NYH87bK1bzsn-BL_tsL5PrdaISbyBZAfCU3IaZ1mt5l6qWIjNhErQy87VE1g162uscqXWEv5cure3BKLZw8JjBQ3w&usqp=CAE"
+  }
+]

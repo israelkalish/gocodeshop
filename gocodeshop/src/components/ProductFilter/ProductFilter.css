@@ -1,0 +1,9 @@
+  
+  .product-filter {
+    display: flex;
+    padding: 70px 0;
+  }
+  
+  .sort {
+    display: flex;
+  }

@@ -1,0 +1,37 @@
+.PageOfProduct{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+}
+
+.PageOfProduct .product-image{
+    max-width: 600px;
+}
+
+.PageOfProduct-div{
+    max-width: 400px;
+    display: flex;
+    flex-direction: column;
+}
+.PageOfProduct-div *{
+    margin: 8px 80px;
+}
+
+.PageOfProduct-div-div{
+    display: flex;
+    justify-content: space-evenly
+}
+
+.PageOfProduct-div-div *{
+    margin: 0px;
+}
+
+
+.PageOfProduct-div+.buttons-amount *{
+    width: 49%;
+}
+
+
+.PageOfProduct div .buttons-amount button{
+    width: 49%;
+}

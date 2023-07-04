@@ -1,0 +1,19 @@
+.myCart{
+    display: flex;
+    justify-content: space-between
+}
+
+.myCart-src{
+    height: 80px;
+}
+
+.myCart-Button{
+    display: flex;
+    margin: auto;   
+
+}
+
+.myCart-p{
+    margin: auto;
+
+}
